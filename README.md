@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/osama.jpg" alt="yourafg banner" width="100">
+  <img src="osama.jpg" alt="yourafg banner" width="100">
 </p>
 
 ## yourafg  
