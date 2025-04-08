@@ -13,6 +13,6 @@
 Nothing so far. New GitHub account.  
 
 ### Contact  
-- Discord: [Join here](https://discord.gg/aheaqdxMR9)  
+- Discord: [Join here](https://discord.gg/rW8aM2VE)  
 - X: [Follow here](https://x.com/ourafg)  
 - Website: [Visit here](https://yourafg.site/)  
