@@ -10,7 +10,7 @@
 - Interests: Exploit Development, Artificial Intelligence, Cybersecurity  
 
 ### Projects  
-Nothing so far. New GitHub account.  
+Will update this soon
 
 ### Contact  
 - Discord: [Join here](https://discord.gg/rW8aM2VE)  
