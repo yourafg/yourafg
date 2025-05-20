@@ -11,7 +11,9 @@
 
 ### Projects  
 [Head Developer] at PT4 - An internal for Valorant and Fortnite
+
 [Owner] for fatal - A Roblox script in development.
+
 More projects coming soon...
 
 ### Contact  
