@@ -10,7 +10,9 @@
 - Interests: Exploit Development, Artificial Intelligence, Cybersecurity  
 
 ### Projects  
-Will update this soon
+[Head Developer] at PT4 - An internal for Valorant and Fortnite
+[Owner] for fatal - A Roblox script in development.
+More projects coming soon...
 
 ### Contact  
 - Discord: [Join here](https://discord.gg/rW8aM2VE)  
